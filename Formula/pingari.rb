@@ -1,9 +1,9 @@
 class Pingari < Formula
   desc "Watch a network and get alerted when a device stops responding"
   homepage "https://github.com/sjonni/homebrew-tap"
-  url "https://github.com/sjonni/homebrew-tap/releases/download/v0.6.4/pingari-macos.zip"
-  version "0.6.4"
-  sha256 "454f22b1f18d9fe3911d1d98445d12c78ef959dc976a29801f8d102536a76463"
+  url "https://github.com/sjonni/homebrew-tap/releases/download/v0.6.5/pingari-macos.zip"
+  version "0.6.5"
+  sha256 "f6372c9641a4d58c17911790128843279b92083623ccc2c62fdbad76490daeea"
 
   depends_on :macos
 
