@@ -6,6 +6,16 @@
     <description>Netlens updates.</description>
     <language>en</language>
     <item>
+      <title>Netlens 0.11.0</title>
+      <pubDate>Sun, 22 Nov 2026 23:57:20 GMT</pubDate>
+      <sparkle:version>501</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/sjonni/homebrew-tap/releases/tag/v0.11.0</sparkle:fullReleaseNotesLink>
+      <description>&lt;p&gt;Netlens 0.11.0. The release page lists what changed.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/sjonni/homebrew-tap/releases/download/v0.11.0/Netlens-0.11.0.dmg" length="28629393" type="application/octet-stream" sparkle:edSignature="XeF82GIedDgRIneEnEboEItw8J5MBQVsUGszFapFitFyqcW+8zXxTy5bsztXPXPuktMDccSD4Z0r3oT1SqfACQ==" />
+    </item>
+    <item>
       <title>Netlens 0.10.0</title>
       <pubDate>Sun, 22 Nov 2026 16:46:27 GMT</pubDate>
       <sparkle:version>438</sparkle:version>
