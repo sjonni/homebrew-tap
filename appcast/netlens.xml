@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Netlens</title>
+    <link>https://raw.githubusercontent.com/sjonni/homebrew-tap/main/appcast/netlens.xml</link>
+    <description>Netlens updates.</description>
+    <language>en</language>
+    <item>
+      <title>Netlens 0.10.0</title>
+      <pubDate>Sun, 22 Nov 2026 16:46:27 GMT</pubDate>
+      <sparkle:version>438</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/sjonni/homebrew-tap/releases/tag/v0.10.0</sparkle:fullReleaseNotesLink>
+      <description>&lt;p&gt;Netlens 0.10.0. The release page lists what changed.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/sjonni/homebrew-tap/releases/download/v0.10.0/Netlens-0.10.0.dmg" length="26352210" type="application/octet-stream" sparkle:edSignature="NO2Za0FVMwpX9sqAhVNsmAxKAY77UumdjRpLwxZrK99iL7mWloJZQjERI3+lMPBqcUmwII+8dF0D8eur8/NIAg==" />
+    </item>
+  </channel>
+</rss>
