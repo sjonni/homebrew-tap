@@ -1,6 +1,6 @@
 cask "netlens" do
-  version "0.11.0"
-  sha256 "7a9272659753e47c006ff76fb27a5c73c61ab4c7b68097b6654b0058192173e1"
+  version "0.12.0"
+  sha256 "fba5b688a8e7475af0bccdbb4cafbb6402c2cbc2f7cd94f39a05b743672563bc"
 
   url "https://github.com/sjonni/homebrew-tap/releases/download/v#{version}/Netlens-#{version}.dmg"
   name "Netlens"
